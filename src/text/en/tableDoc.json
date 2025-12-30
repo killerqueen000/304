@@ -1,0 +1,46 @@
+{
+  "docTable": {
+    "headers": {
+      "items": "ITEMS",
+      "application": "APPLICATION TYPE",
+      "details": "DETAILS"
+    },
+    "rows": [
+      {
+        "items": "Copy of passport",
+        "application": "All applicants",
+        "details": "Biodata page and all exit and entry stamped pages"
+      },
+      {
+        "items": "White background passport size photo",
+        "application": "All applicants",
+        "details": "Photo size: 35x50mm"
+      },
+      {
+        "items": "Letter of Good Conduct",
+        "application": "All applicants",
+        "details": "Issued by country of origin or current country of residence"
+      },
+      {
+        "items": "Marriage certificate (For legal spouse)",
+        "application": "Main applicants",
+        "details": "Translated, Notarised, and Certified True Copy (CTC) by the Malaysia Embassy / High Commision / Consulate General"
+      },
+      {
+        "items": "Birth certificate (Biological / stepchild /legally adopted)",
+        "application": "All children",
+        "details": "Translated, Notarised, and Certified True Copy (CTC) by the Malaysia Embassy / High Commision / Consulate General"
+      },
+      {
+        "items": "Bank statement to prove offshore income",
+        "application": "Main applicants",
+        "details": "Certify by bank"
+      },
+      {
+        "items": "*Income above RM40,000 monthly and RM480,000 annualy",
+        "application": "Main applicants",
+        "details": "Certify by bank"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "header": {
+    "pvip": "PVIP",
+    "benefits": "メリット",
+    "requirements": "要件文書",
+    "contact": "お問い合わせ"
+  },
+  "landing-page": {
+    "h1": "マレーシアでの生活",
+    "span": "MyResidencyVIPでマレーシアを発見しよう"
+  },
+  "marquee": {
+    "text": "マレーシアへようこそ # "
+  },
+
+  "misc": {
+    "contact-us": "お問い合わせ",
+    "about-us": "当社について"
+  },
+  "pvip": {
+    "title1": "マレーシア・プレミアムビザプログラム（PVIP）へようこそ",
+    "welcome-to-malaysia": "マレーシアは美しく多様な国であり、高い生活水準、豊かな文化的体験、そしてビジネスチャンスを提供しています。温暖な気候、美味しい料理、そして親切な人々を誇り、マレーシアは地元の人々にも外国人にも理想的な居住地です。",
+    "title2": "PVIPについて",
+    "about-pvip": "マレーシアのプレミアムビザプログラム（PVIP）は、マレーシアでの居住と就労を希望する外国人投資家や起業家に様々な特典を提供する新たなビザ制度です。このプログラムは、マレーシア経済の成長と発展に貢献できる富裕層を誘致することを目的としています。PVIPでは、10年間の複数回入国ビザ、家族をマレーシアに呼び寄せる権利、様々なビジネスチャンスへのアクセスなど、幅広い特典を提供しています。このプログラムは、一定の財務・投資基準を満たし、マレーシア経済への貢献を証明できる個人を対象としています。PVIPについて詳しく知りたい方は、ぜひ本日お問い合わせください。当社の専門家チームが申請手続きのナビゲーションを支援し、この魅力的な機会を最大限に活用するためのサポートを提供いたします。"
+  },
+  "benefit": {
+    "title1": "ベネフィットと",
+    "title11": "特徴",
+    "subTitle": "PVIPの特典と機能をお楽しみください",
+    "tableTitle": "PVIPの魅力的な特徴"
+  },
+
+  "privilages": {
+    "title1": "特典／優待",
+    "title11": "PVIPMYSを直接または当社のビジネスパートナーを通じてPVIP処理代理人として任命する申請者は、以下の特典を享受できます："
+  },
+
+  "privilagedList": [
+    {
+      "title": "Dedicated PVIP Consultant",
+      "desc": "Personalised service by a dedicated PVIP Consultant."
+    },
+    {
+      "title": "Complimentary Transfer",
+      "desc": "On their first visit to Kuala Lumpur after receiving conditional approval: Complimentary return KLIA airport transfer. Complimentary transfers to: Bank for fixed deposit account opening Medical facility for medical check-up Immigration department for visa collection."
+    },
+    {
+      "title": "Premier Banking",
+      "desc": "Preferred Banking Service with personalized banking solutions. Exclusive credit facilities. We partnered with banks such as: OCBC Bank, UOB Bank, RHB Bank, Maybank, Public Bank, Alliance and Ambank."
+    },
+    {
+      "title": "Insurance Brokerage",
+      "desc": "Connect with leading insurance providers that offer comprehensive insurance coverage. We partnered with insurance companies such as: AIA, Great Eastern, Manulife and Allianz."
+    }
+  ],
+
+  "table1": {
+    "rows": {
+      "1": "主たる申請者になることに年齢制限はありません",
+      "2": "PVIP参加者に物理的な存在や最低滞在期間の要件はありません",
+      "3": "PVIP参加者は、マレーシア国民と区別なく、就労、事業活動、就学、投資、不動産購入（州法に従う）を行うことが認められています。",
+      "4": "PVIPは20年間有効であり、参加者は満了前にさらに20年間延長する選択肢を有します（20+20年）。",
+      "5": "PVIP参加者は、配偶者、子供、義父母、および家事使用人を扶養家族として同伴することが認められます。ただし、現行の移民法に従うものとします。"
+    }
+  },
+
+  "requiredDoc": {
+    "title1": "必要書類"
+  },
+
+  "contactUs": {
+    "compName": "PVIPMYS",
+    "p": "まだ質問がありますか？",
+    "span": "今すぐお問い合わせください",
+    "name": "フルネーム",
+    "contact": "お問い合わせ",
+    "from": "どこから来たの？",
+    "submit": "送信",
+    "tnc": "本フォームを送信することにより、私/私たちは、個人データ通知に記載された目的のために私/私たちの個人データが収集されることをここに確認し、理解します。私/私たちは個人データ通知を読み理解し、PVIPMYSが私/私たちの個人データを収集および処理することにここに明示的に同意します。"
+  },
+
+  "footer": {
+    "name": "PVIPMYS",
+    "contactUs": "お問い合わせ",
+    "phoneNum": "+6017-829-7995",
+    "email": "shafiqhaikl123@gmail.com",
+    "address": "n-4-08, 4th Floor Connection Commercial Persiaran IRC 3, IOI Resort City, 62502 Putrajaya, Malaysia"
+  },
+  "placeholder" : {
+    "first-name": "ファーストネーム",
+    "last-name":"姓",
+    "phone-no":"電話番号",
+    "email":"youremail@example.com"
+  },
+    "aboutUs" : {
+    "heroTitle": "当社について",
+    "compName":"Riz Intelligent Holding Sdn Bhd",
+    "desc": "RIZ INTELLIGENT HOLDING SDN. BHD. マレーシア企業であり、多様なサービスを手掛けています。主にイベント・フードケータリング、労働者募集、人材サービス、ならびに現場準備、構造工事、仕上げ工事を含む建設工事の全工程サービスを提供しています。同社はマレーシア財務省（MOF）に登録されており、飲食業など様々な分野で事業を展開しています。"
+  }
+}

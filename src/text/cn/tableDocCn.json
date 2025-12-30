@@ -1,0 +1,46 @@
+{
+  "docTable": {
+    "headers": {
+      "items": "物品",
+      "application": "应用程序类型",
+      "details": "详情"
+    },
+    "rows": [
+      {
+        "items": "护照复印件",
+        "application": "所有申请人",
+        "details": "生物数据页和所有出入境盖章页"
+      },
+      {
+        "items": "白色背景护照尺寸照片",
+        "application": "所有申请人",
+        "details": "照片尺寸：35x50mm"
+      },
+      {
+        "items": "无犯罪记录证明",
+        "application": "所有申请人",
+        "details": "由原籍国或当前居住国签发"
+      },
+      {
+        "items": "结婚证（适用于合法配偶）",
+        "application": "主要申请人",
+        "details": "马来西亚大使馆/高级委员会/总领事馆翻译、公证和核证无误的副本（CTC）"
+      },
+      {
+        "items": "出生证明（亲生/继子女/合法收养）",
+        "application": "所有儿童",
+        "details": "马来西亚大使馆/高级委员会/总领事馆翻译、公证和核证无误的副本（CTC）"
+      },
+      {
+        "items": "证明离岸收入的银行对账单",
+        "application": "主要申请人",
+        "details": "银行证明"
+      },
+      {
+        "items": "*月收入超过40000令吉，年收入超过480000令吉",
+        "application": "主要申请人",
+        "details": "银行证明"
+      }
+    ]
+  }
+}

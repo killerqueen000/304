@@ -1,0 +1,8 @@
+[
+  { "id": 1, "code":"EN", "lang": "English" },
+  { "id": 2, "code":"CN", "lang": "中文" },
+  { "id": 3, "code":"KR", "lang": "한국어" },
+  { "id": 4, "code":"ARB", "lang": "العربية" },
+  { "id": 5, "code":"JP", "lang": "日本語" },
+   { "id": 6, "code":"RU", "lang": "Русский" }
+]

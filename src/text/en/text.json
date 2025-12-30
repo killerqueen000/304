@@ -1,0 +1,119 @@
+{
+  "header": {
+    "pvip": "PVIP",
+    "benefits": "Benefits",
+    "requirements": "Requirements Documents",
+    "contact": "Contact"
+  },
+  "landing-page": {
+    "h1": "LIVING IN MALAYSIA",
+    "span": "Discover Malaysia with PVIPMYS"
+  },
+  "marquee": {
+    "text": "WELCOME TO MALAYSIA # "
+  },
+
+  "misc": {
+    "contact-us": "Contact Us",
+    "about-us": "About Us"
+  },
+  "pvip": {
+    "title1": "Welcome to Malaysia's Premium Visa Programme (PVIP)",
+    "welcome-to-malaysia": "Malaysia is a beautiful and diverse country that offers a high standard of living, rich cultural experiences, and business opportunities. With its warm climate, delicious food, and friendly people, Malaysia is an ideal place to live for both locals and foreigners alike.",
+    "title2": "About PVIP",
+    "about-pvip": "Malaysia's Premium Visa Programme (PVIP) is a new visa programme that offers a range of benefits to foreign investors and entrepreneurs who want to live and work in Malaysia. The programme is designed to attract high-net-worth individuals who can contribute to the growth and development of the Malaysian economy. PVIP offers a range of benefits, including a 10-year multiple-entry visa, the ability to bring family members to Malaysia, and access to a range of business opportunities. The programme is open to individuals who meet certain financial and investment criteria, and who can demonstrate a commitment to contributing to the Malaysian economy. If you're interested in learning more about PVIP, please contact us today. Our team of experts can help you navigate the application process and provide you with the support you need to make the most of this exciting opportunity."
+  },
+  "benefit": {
+    "title1": "BENEFITS & FEATURES",
+    "title11": "",
+    "subTitle": "Enjoy the PVIP benefits and features",
+    "tableTitle": "ATTRACTIVE FEATURES OF PVIP"
+  },
+
+  "privilages": {
+    "title1": "BENEFIT / PRIVILAGES ",
+    "title11": "Applicants appointing PVIPMYS directly or through our business associates as their PVIP Processing Agent will enjoy:"
+  },
+
+  "privilagedList": [
+    {
+      "title": "Dedicated PVIP Consultant",
+      "desc": "Personalised service by a dedicated PVIP Consultant."
+    },
+    {
+      "title": "Complimentary Transfer",
+      "desc": "On their first visit to Kuala Lumpur after receiving conditional approval: Complimentary return KLIA airport transfer. Complimentary transfers to: Bank for fixed deposit account opening Medical facility for medical check-up Immigration department for visa collection."
+    },
+    {
+      "title": "Premier Banking",
+      "desc": "Preferred Banking Service with personalized banking solutions. Exclusive credit facilities. We partnered with banks such as: OCBC Bank, UOB Bank, RHB Bank, Maybank, Public Bank, Alliance and Ambank."
+    },
+    {
+      "title": "Insurance Brokerage",
+      "desc": "Connect with leading insurance providers that offer comprehensive insurance coverage. We partnered with insurance companies such as: AIA, Great Eastern, Manulife and Allianz."
+    }
+  ],
+
+  "table1": {
+    "rows": {
+      "1": "There are no age restrictions to be a principal applicant",
+      "2": "There is no physical presence or minimum stay criteria for PVIP participants",
+      "3": "PVIP participants are allowed to work, conduct business, study, invest, and purchase properties (subject to state laws) with no distinction from Malaysian citizens",
+      "4": "The PVIP is applicable for 20 years, and participants have an option to extend a further 20 years before expiry (20+20 years)",
+      "5": "PVIP participants are allowed to bring their spouses, children, parent in-laws, and domestic workers as dependents subject to existing immigration laws"
+    }
+  },
+
+  "requiredDoc": {
+    "title1": "REQUIREMENTS DOCUMENTS"
+  },
+
+  "contactUs": {
+    "compName": "PVIPMYS",
+    "p": "Still have questions?",
+    "span": "Contact Us Now",
+    "name": "Full name",
+    "contact": "Contact",
+    "from": "Where are you from?",
+    "submit": "Submit",
+    "tnc": "By submitting the form, I/We hereby acknowledge and understand that my/our personal data is being collected for the Purpose in our Personal Data Notice. I/We have read and understood the Personal Data Notice and hereby expressly give consent to PVIPMYS to collect and process my/our personal data."
+  },
+
+  "footer": {
+    "name": "PVIPMYS",
+    "contactUs": "Contact Us",
+    "phoneNum": "+6017-829-7995",
+    "email": "shafiqhaikl123@gmail.com",
+    "address": "n-4-08, 4th Floor Connection Commercial Persiaran IRC 3, IOI Resort City, 62502 Putrajaya, Malaysia",
+    "credit" : "© 2025 RIZ INTELLIGENT HOLDING SDN BHD (1064078-M). ALL RIGHTS RESERVED n-4-08. 4th Floor Connection Commercial Persiaran IRC 3, IOI Resort City, 62502 Putrajaya, Malaysia.",
+
+    "titleHyperlinks": {
+      "immi":"Immigration of Malaysia",
+      "pvip":"Malaysia Premium Visa (PVIP)",
+      "tourism":"Malaysia Tourism"
+    },
+
+    "hyperlinks" : {
+      "immi": "https://www.imi.gov.my/",
+      "pvip": "https://imigresen-online.imi.gov.my/eservices/main",
+      "tourism":"https://www.malaysia.travel/"
+    } 
+  },
+  "placeholder" : {
+    "first-name": "First name",
+    "last-name":"Last name",
+    "phone-no":"Phone number",
+    "email":"youremail@example.com"
+  },
+
+  "aboutUs" : {
+    "heroTitle": "About Us",
+    "compName":"Riz Intelligent Holding Sdn Bhd",
+    "desc": "RIZ INTELLIGENT HOLDING SDN. BHD. is a Malaysian company involved in diverse services, primarily listed as providing event & food catering, labor recruitment, personnel services, and end-to-end construction services, including site prep, structural, and finishing works. They are registered with the Malaysian Ministry of Finance (MOF) and operate in various categories like Food & Beverage."
+  },
+
+  "whatsapp": {
+    "number":"60178297995",
+    "message" :"Hello! I want to know more about PVIP."
+  }
+}

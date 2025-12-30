@@ -1,0 +1,101 @@
+{
+  "header": {
+    "pvip": "PVIP",
+    "benefits": "الفوائد",
+    "requirements": "وثائق المتطلبات",
+    "contact": "اتصل بنا"
+  },
+  "landing-page": {
+    "h1": "يسكن في ماليزيا",
+    "span": "اكتشف ماليزيا مع PVIPMYS"
+  },
+  "marquee": {
+    "text": "مرحبا بكم في ماليزيا # "
+  },
+
+  "misc": {
+    "contact-us": "اتصل بنا",
+    "about-us": "معلومات عنا"
+  },
+  "pvip": {
+    "title1": "مرحبا بكم في برنامج التأشيرة المميزة في ماليزيا (PVIP)",
+    "welcome-to-malaysia": "ماليزيا بلد جميل ومتنوع يوفر مستوى معيشة مرتفعا وخبرات ثقافية غنية وفرصا تجارية. مع مناخها الدافئ والطعام اللذيذ والشعب الودود ، تعد ماليزيا مكانا مثاليا للعيش لكل من السكان المحليين والأجانب على حد سواء.",
+    "title2": "حول PVIP",
+    "about-pvip": "برنامج التأشيرة الممتازة في ماليزيا هو برنامج تأشيرة جديد يقدم مجموعة من المزايا للمستثمرين الأجانب ورجال الأعمال الذين يرغبون في العيش والعمل في ماليزيا. تم تصميم البرنامج لجذب الأفراد ذوي الملاءة المالية العالية الذين يمكنهم المساهمة في نمو وتطور الاقتصاد الماليزي. PVIP يقدم مجموعة من المزايا ، بما في ذلك تأشيرة دخول متعددة لمدة 10 سنوات ، والقدرة على جلب أفراد الأسرة إلى ماليزيا ، والوصول إلى مجموعة من الفرص التجارية. البرنامج مفتوح للأفراد الذين يستوفون معايير مالية واستثمارية معينة ، والذين يمكنهم إظهار التزامهم بالمساهمة في الاقتصاد الماليزي. إذا كنت مهتما بمعرفة المزيد عن PVIP ، فيرجى الاتصال بنا اليوم. يمكن لفريق الخبراء لدينا مساعدتك في التنقل في عملية التقديم وتزويدك بالدعم الذي تحتاجه لتحقيق أقصى استفادة من هذه الفرصة المثيرة."
+  },
+  "benefit": {
+    "title1": "الاستفادة و",
+    "title11": "الميزات",
+    "subTitle": "استمتع PVIP الفوائد والميزات",
+    "tableTitle": "ميزات جذابة من PVIP"
+  },
+
+  "privilages": {
+    "title1": "المزايا / الامتيازات",
+    "title11": "المتقدمين تعيين مايريسيدنسيبفيب مباشرة أو من خلال شركاء العمل لدينا كما PVIP وكيل تجهيز سوف تتمتع:"
+  },
+
+  "privilagedList": [
+    {
+      "title": "Dedicated PVIP Consultant",
+      "desc": "Personalised service by a dedicated PVIP Consultant."
+    },
+    {
+      "title": "Complimentary Transfer",
+      "desc": "On their first visit to Kuala Lumpur after receiving conditional approval: Complimentary return KLIA airport transfer. Complimentary transfers to: Bank for fixed deposit account opening Medical facility for medical check-up Immigration department for visa collection."
+    },
+    {
+      "title": "Premier Banking",
+      "desc": "Preferred Banking Service with personalized banking solutions. Exclusive credit facilities. We partnered with banks such as: OCBC Bank, UOB Bank, RHB Bank, Maybank, Public Bank, Alliance and Ambank."
+    },
+    {
+      "title": "Insurance Brokerage",
+      "desc": "Connect with leading insurance providers that offer comprehensive insurance coverage. We partnered with insurance companies such as: AIA, Great Eastern, Manulife and Allianz."
+    }
+  ],
+
+  "table1": {
+    "rows": {
+      "1": "لا توجد قيود السن ليكون مقدم الطلب الرئيسي",
+      "2": "لا يوجد حضور مادي أو حد أدنى من معايير الإقامة للمشاركين PVIP ",
+      "3": "PVIP يسمح للمشاركين بالعمل وممارسة الأعمال التجارية والدراسة والاستثمار وشراء العقارات (وفقا لقوانين الولاية) دون تمييز عن المواطنين الماليزيين",
+      "4": "ينطبق PVIP لمدة 20 عاما ، ويكون للمشاركين خيار تمديد 20 عاما أخرى قبل انتهاء الصلاحية (20 + 20 عاما)",
+      "5": "PVIP يسمح للمشاركين بإحضار أزواجهم وأطفالهم وأصهارهم وعمال المنازل كمعالين خاضعين لقوانين الهجرة الحالية"
+    }
+  },
+
+  "requiredDoc": {
+    "title1": "وثائق المتطلبات"
+  },
+
+  "contactUs": {
+    "compName": "PVIPMYS",
+    "p": "لا يزال لديك أسئلة?",
+    "span": "اتصل بنا الآن",
+    "name": "الاسم الكامل",
+    "contact": "اتصل بنا",
+    "from": "مِنْ أَيْنَ أَنْتُمْ؟",
+    "submit": "إرسال",
+    "tnc": "من خلال تقديم النموذج ، أقر/نحن بموجب هذا وأفهم أن بياناتي/بياناتنا الشخصية يتم جمعها لهذا الغرض في إشعار البيانات الشخصية الخاص بنا. لقد قرأت وفهمت إشعار البيانات الشخصية وبموجب هذا نوافق صراحة على جمع ومعالجة بياناتي/بياناتنا الشخصية."
+  },
+
+  "footer": {
+    "name": "PVIPMYS",
+    "contactUs": "اتصل بنا",
+    "phoneNum": "+6017-829-7995",
+    "email": "shafiqhaikl123@gmail.com",
+    "address": "n-4-08, 4th Floor Connection Commercial Persiaran IRC 3, IOI Resort City, 62502 Putrajaya, Malaysia"
+  },
+  "placeholder" : {
+    "first-name": "الاسم الأول",
+    "last-name":"اسم العائلة",
+    "phone-no":"رقم الهاتف",
+    "email":"youremail@example.com"
+  },
+  
+  "aboutUs" : {
+    "heroTitle": "نبذة عنا",
+    "compName":"Riz Intelligent Holding Sdn Bhd",
+    "desc": "Riz Intelligent Holding Sdn Bhd هي شركة ماليزية تعمل في خدمات متنوعة، وتُدرج في المقام الأول على أنها تقدم خدمات تنظيم الفعاليات وتقديم الطعام، وتوظيف العمالة، وخدمات الموظفين، وخدمات البناء الشاملة، بما في ذلك تجهيز المواقع والأعمال الإنشائية وأعمال التشطيب. وهي مسجلة لدى وزارة المالية الماليزية (MOF) وتعمل في فئات مختلفة مثل الأغذية والمشروبات."
+  }
+}

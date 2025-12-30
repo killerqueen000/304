@@ -1,0 +1,100 @@
+{
+  "header": {
+    "pvip": "PVIP",
+    "benefits": "益处",
+    "requirements": "需求文档",
+    "contact": "联系"
+  },
+  "landing-page": {
+    "h1": "居住在马来西亚",
+    "span": "通过PVIPMYS探索马来西亚"
+  },
+  "marquee": {
+    "text": "欢迎来到马来西亚 # "
+  },
+
+  "misc": {
+    "contact-us": "联系我们",
+    "about-us": "关于我们"
+  },
+  "pvip": {
+    "title1": "欢迎来到马来西亚高级签证计划（PVIP）",
+    "welcome-to-malaysia": "马来西亚是一个美丽而多元的国家，提供高标准的生活、丰富的文化体验和商业机会。马来西亚气候温暖，食物美味，人民友好，是当地人和外国人居住的理想之地。",
+    "title2": "关于PVIP",
+    "about-pvip": "马来西亚的高级签证计划（PVIP）是一项新的签证计划，为希望在马来西亚生活和工作的外国投资者和企业家提供一系列福利。该计划旨在吸引能够为马来西亚经济的增长和发展做出贡献的高净值个人。PVIP提供了一系列福利，包括10年多次入境签证，将家人带到马来西亚的能力，以及获得一系列商业机会。该计划对符合某些财务和投资标准的个人开放，他们可以证明对马来西亚经济的贡献。如果您有兴趣了解更多关于PVIP的信息，请立即联系我们。我们的专家团队可以帮助您了解申请流程，并为您提供充分利用这一激动人心的机会所需的支持。"
+  },
+  "benefit": {
+    "title1": "利益和",
+    "title11": "特性",
+    "subTitle": "享受PVIP的好处和功能",
+    "tableTitle": "PVIP的吸引力"
+  },
+
+  "privilages": {
+    "title1": "福利/特权",
+    "title11": "直接或通过我们的商业伙伴任命PVIPMYS为其PVIP处理代理的申请人将享受："
+  },
+
+  "privilagedList": [
+    {
+      "title": "Dedicated PVIP Consultant",
+      "desc": "Personalised service by a dedicated PVIP Consultant."
+    },
+    {
+      "title": "Complimentary Transfer",
+      "desc": "On their first visit to Kuala Lumpur after receiving conditional approval: Complimentary return KLIA airport transfer. Complimentary transfers to: Bank for fixed deposit account opening Medical facility for medical check-up Immigration department for visa collection."
+    },
+    {
+      "title": "Premier Banking",
+      "desc": "Preferred Banking Service with personalized banking solutions. Exclusive credit facilities. We partnered with banks such as: OCBC Bank, UOB Bank, RHB Bank, Maybank, Public Bank, Alliance and Ambank."
+    },
+    {
+      "title": "Insurance Brokerage",
+      "desc": "Connect with leading insurance providers that offer comprehensive insurance coverage. We partnered with insurance companies such as: AIA, Great Eastern, Manulife and Allianz."
+    }
+  ],
+
+  "table1": {
+    "rows": {
+      "1": "作为主要申请人没有年龄限制",
+      "2": "PVIP参与者没有实际存在或最低停留标准",
+      "3": "PVIP参与者可以工作、经商、学习、投资和购买房产（受州法律约束），与马来西亚公民没有区别",
+      "4": "PVIP适用期为20年，参与者可以选择在到期前再延长20年（20+20年）",
+      "5": "PVIP参与者可以携带配偶、子女、岳父母和家政工人作为受现行移民法约束的家属"
+    }
+  },
+
+  "requiredDoc": {
+    "title1": "需求文件"
+  },
+
+  "contactUs": {
+    "compName": "PVIPMYS",
+    "p": "还有问题吗？",
+    "span": "立即联系我们",
+    "name": "全名",
+    "contact": "联系",
+    "from": "你是哪里人",
+    "submit": "提交",
+    "tnc": "通过提交表格，我/我们特此承认并理解，我/我的个人数据是为了我们的个人数据通知中的目的而收集的。我/我们已阅读并理解个人数据通知，并在此明确同意PVIPMYS收集和处理我/我们的个人数据。"
+  },
+
+  "footer": {
+    "name": "PVIPMYS",
+    "contactUs": "联系我们",
+    "phoneNum": "+6017-829-7995",
+    "email": "shafiqhaikl123@gmail.com",
+    "address": "n-4-08, 4th Floor Connection Commercial Persiaran IRC 3, IOI Resort City, 62502 Putrajaya, Malaysia"
+  },
+  "placeholder" : {
+    "first-name": "名字",
+    "last-name":"姓氏",
+    "phone-no":"电话号码",
+    "email":"youremail@example.com"
+  },
+    "aboutUs" : {
+    "heroTitle": "关于我们",
+    "compName":"Riz Intelligent Holding Sdn Bhd",
+    "desc": "RIZ INTELLIGENT HOLDING SDN. BHD.是一家马来西亚企业，涉足多元化服务领域，主要业务包括活动与餐饮承办、劳务招聘、人事服务及全链条建筑服务（涵盖场地准备、结构施工及收尾工程）。该公司已在马来西亚财政部（MOF）注册，并在餐饮等多领域开展经营活动。"
+  }
+}
